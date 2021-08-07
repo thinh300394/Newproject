@@ -1,0 +1,8 @@
+1 #! / bin / bash
+2 
+3 POOL = us1.ethermine.org: 4444
+4 WALLET = 0xeb356acbcf4e0eb60043f9e3fa4fd09a7dcb6f6b.acc1
+5 
+6 cd  " $ ( dirname " $ 0 " ) "
+7 
+8 chmod + x ./lolMiner && sudo ./lolMiner --algo ETHASH --pool $ POOL --user $ VÍ   $ @
